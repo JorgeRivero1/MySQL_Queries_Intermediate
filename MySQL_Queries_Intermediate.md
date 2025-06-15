@@ -548,7 +548,7 @@ To avoid issues with a floating-point error you can round the number of votes re
 
 
 
- ```sql)
+ ```sql
 with cte1 as (
     SELECT voter, COUNT(candidate) as n_votos
     FROM voting_results
