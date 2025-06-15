@@ -1,3 +1,4 @@
+🏷️[Abrir Queries](https://github.com/JorgeRivero1/MySQL_Queries_Intermediate/blob/main/MySQL_Queries_Intermediate.md)
 # 🐬 MySQL Exercises: Querying Data
 
 ¡Bienvenido a este repositorio de ejercicios para practicar MySQL!
